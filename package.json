@@ -1,0 +1,30 @@
+{
+  "name": "code-challenge-javascript-day-5",
+  "version": "1.0.0",
+  "description": "javascript code challenge day 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCbenin/code-challenge-javascript-day-5.git"
+  },
+  "keywords": [
+    "facebook",
+    "devc",
+    "challenge",
+    "raindrops",
+    "algorithm",
+    "benin-city"
+  ],
+  "author": "damilare-sanusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevCbenin/code-challenge-javascript-day-5/issues"
+  },
+  "homepage": "https://github.com/DevCbenin/code-challenge-javascript-day-5#readme",
+  "dependencies": {
+    "jest": "^25.4.0"
+  }
+}
